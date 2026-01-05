@@ -1,2 +1,2 @@
 # OOPS-in-Java
-This Folder has Java code implementation of OOPs concept
+This repo has Java code implementation of OOPs concept
